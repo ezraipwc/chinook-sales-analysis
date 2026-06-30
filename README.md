@@ -49,15 +49,15 @@ This relational database represents a digital media store. There are 11 tables: 
 ---
 
 ## Structure of Project Folder
-
+```
 chinook/
 ├── chinook.ipynb
 ├── README.md
 ├── data/
 │    └── Chinook_PostgreSql.sql
-├── img/
-     └── img/chinook_schema.png
-
+└── img/
+     └── chinook_schema.png
+```
 The project notebook is chinook.ipynb. The sql file used in this project can be found under *data* folder. Database credentials are stored locally and excluded from this project.
 
 
