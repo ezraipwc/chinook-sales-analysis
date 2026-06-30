@@ -60,7 +60,6 @@ chinook/
 ```
 The project notebook is chinook.ipynb. The sql file used in this project can be found under *data* folder. Database credentials are stored locally and excluded from this project.
 
-
 ---
 
 ## Database Setup
